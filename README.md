@@ -13,10 +13,11 @@ This repository presents a comprehensive analysis of MTN Nigeria’s subscriber 
 Microsoft Excel: Data cleaning, descriptive statistical analysis, distribution summaries, and dashboard development.
 
 ## Methodology 
-- Data Cleaning and Preparation: Verified data types, removed duplicates, standardized categories, corrected invalid values, and retained relevant variables for a reliable dataset.
-- Descriptive and Distribution Analysis: Computed summary statistics and distributions to understand customer profiles, spending, usage, and churn concentration.
-- Churn and Satisfaction Analysis: Segmented customers by plan, usage, tenure, and satisfaction to identify high-risk churn segments and retention opportunities.
-- Visualization and Insights: Built an Excel dashboard to communicate key findings and generate actionable recommendations for subscription optimization and customer retention.
+- Data Preparation: Verified data types, removed duplicates, standardized categorical values, and corrected inconsistencies to ensure data reliability.
+- Churn-Focused Filtering: The dataset was intentionally filtered to include only customers with “Yes” in the Customer Churn Status field. Records marked “No” (active customers) were excluded to align the analysis strictly with churn behavior.
+- Descriptive Statistics: Comprehensive summary statistics (including measures of central tendency, dispersion, and distribution shape) were computed for key variables such as age, tenure, pricing, satisfaction, and usage.
+- Correlation Analysis: Correlation analysis was performed to examine relationships between numerical variables, including revenue, unit price, tenure, satisfaction, and usage metrics.
+- Reporting and Visualization: Pivot tables and an Excel dashboard were used to summarize patterns to communicate key findings and generate actionable recommendations for subscription optimization and customer retention.
 
 ## Repository Structure
 - Project Management: Project brief outlining business problem, objectives, and churn-related questions.
