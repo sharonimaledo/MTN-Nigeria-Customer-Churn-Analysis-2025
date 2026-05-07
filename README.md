@@ -27,4 +27,4 @@ Microsoft Excel: Data cleaning, descriptive statistical analysis, distribution s
     - Distribution summaries
     - Interactive Excel dashboard highlighting churn patterns and trends
     - Insights and strategic recommendations
-
+  - Visualization: Interactive Excel Dashboard
